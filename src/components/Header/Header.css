@@ -1,0 +1,15 @@
+.Header {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+h1 {
+  color: white;
+}
+
+@media (max-width: 390px) {
+  h1 {
+      font-size: 1.5em;
+  }
+}

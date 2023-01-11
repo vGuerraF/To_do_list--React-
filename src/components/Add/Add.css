@@ -1,0 +1,18 @@
+.AddBar {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#inputAdd {
+  width: 70%;
+  border-radius: 10px;
+  border: none;
+  padding: 0.4em;
+  background-color: #01f25a;
+  color: white;
+  font-size: large;
+  font-weight: 600;
+}

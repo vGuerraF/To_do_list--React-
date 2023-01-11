@@ -1,0 +1,16 @@
+.Button {
+    width: 20%;
+    border: none;
+    font-family: "Mukta";
+    border-radius: 10px;
+    background-color: #01f25a;
+    color: white;
+    font-weight: 600;
+    font-size: large;
+    transition: all .2s ease-in-out;
+  }
+  
+  .Button:hover {
+    background-color: #333;
+    color: #01f25a;
+  }

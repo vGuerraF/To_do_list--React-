@@ -1,0 +1,24 @@
+.ButtonContainer {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.DescriptionContainer {
+  background-color: #333;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-radius: 10px;
+  padding: .7em;
+  margin:  15px auto;
+}
+
+.DescriptionContainer > span {
+  color: #01f25a;
+  font-size: x-large;
+}
+
+p {
+  color: #dddbdb;
+}

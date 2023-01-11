@@ -1,0 +1,7 @@
+#tasksList {
+  margin: 30px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+}
